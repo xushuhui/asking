@@ -1,0 +1,7 @@
+<view class="container">
+  <image src="{{userInfo.avatarUrl}}" />
+  <text>{{userInfo.nickName}}</text>
+  <text>姓名：{{name}}</text>
+  <text>出生日期：{{date}}</text>
+  <text>算命结果：{{fortune}}</text>
+</view>
