@@ -1,4 +1,7 @@
 {
+    "usingComponents": {
+        "t-button": "tdesign-miniprogram/button/button"
+      },
     "pages": [
       
         "pages/index/index"
@@ -6,10 +9,10 @@
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "Weixin",
+        "navigationBarTitleText": "问天机",
         "navigationBarTextStyle": "black"
     },
 
-    "style": "v2",
+   
     "sitemapLocation": "sitemap.json"
 }
